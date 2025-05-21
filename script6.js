@@ -17,7 +17,7 @@ console.log(isLeapYear(2020));
 
 // * Simple To-Do List (Array-based) - Add, remove, and list items using an array
 
-let todoList = [];
+let todoList = ["buy groceries", "Learn JS","Practice js", "Read book"];
 
 function addTask (task) {
     todoList.push(task);
